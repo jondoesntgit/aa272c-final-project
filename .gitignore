@@ -1,0 +1,10 @@
+ios/*
+iOS_noise_characterization/*
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.run.xml
+*.synctex.gz
+*fragment1
